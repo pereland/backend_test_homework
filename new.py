@@ -1,2 +1,0 @@
-# fhvgkjbnkmkjnm
-print('Hellow world!')
